@@ -93,4 +93,7 @@ p a{
 	 padding-top: 270px;
 	 text-align: center;
   }
+	p{
+		margin-top:10px;
+	}
 }
