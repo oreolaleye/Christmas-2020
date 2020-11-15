@@ -66,6 +66,15 @@ li span {
   font-size: 5.5rem;
   font-weight: bolder;
 }
+p{
+	text-align: center;
+	text-decoration: underline;
+	margin-top: 30px;
+	font-size: 1.3rem;
+}
+p a{
+	color: #fff;
+}
 
 
 @media all and (max-width: 768px) {
